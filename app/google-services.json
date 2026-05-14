@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "273331533759",
+    "project_id": "namma-mistri-b5b79",
+    "storage_bucket": "namma-mistri-b5b79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273331533759:android:9350253769e16ad886d30a",
+        "android_client_info": {
+          "package_name": "com.example.nammamistri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273331533759-l7ci8iovf80i6k711h1inhtceb86src4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nammamistri",
+            "certificate_hash": "4e16ff1890e7b01c788509240922ad43c68528ce"
+          }
+        },
+        {
+          "client_id": "273331533759-kfvctht82i4a0c0d2h9n4rmm5qbjaff1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6p23Qpotvt2ksZpPjgoD9G8sLOL-9oC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273331533759-kfvctht82i4a0c0d2h9n4rmm5qbjaff1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
